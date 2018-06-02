@@ -32,7 +32,7 @@ main {
 .kleurtjesfooter {
   height: 50px;
   width: 100%;
-  background-image: url("Afbeeldingen/kleurtjes.svg");
+  background-image: url("Afbeeldingen/Kleurtjes.svg");
   padding: 0px 0px;
 }
 
@@ -592,66 +592,66 @@ button {
 }
 
 #cyanaillu {
-  background-image: url("Afbeeldingen/cyanaillu1.png");
+  background-image: url("Afbeeldingen/cyanaillu1.PNG");
   background-size: cover;
 }
 
 #cyanaillu:hover {
-  background-image: url("Afbeeldingen/cyanaillu2.png");
+  background-image: url("Afbeeldingen/cyanaillu2.PNG");
 }
 
 #cyanatypo {
-  background-image: url("Afbeeldingen/cyanatypo1.png");
+  background-image: url("Afbeeldingen/cyanatypo1.PNG");
   background-size: cover;
 }
 
 #cyanatypo:hover {
-  background-image: url("Afbeeldingen/cyanatypo2.png");
+  background-image: url("Afbeeldingen/cyanatypo2.PNG");
 }
 
 #cyanaspec {
-  background-image: url("Afbeeldingen/cyanaspec1.png");
+  background-image: url("Afbeeldingen/cyanaspec1.PNG");
   background-size: cover;
 }
 
 #cyanaspec:hover {
-  background-image: url("Afbeeldingen/cyanaspec2.png");
+  background-image: url("Afbeeldingen/cyanaspec2.PNG");
 }
 
 #kimfoto {
-  background-image: url("Afbeeldingen/kimfoto1.png");
+  background-image: url("Afbeeldingen/kimfoto1.PNG");
   background-size: cover;
 }
 
 #kimfoto:hover {
-  background-image: url("Afbeeldingen/kimfoto2.png");
+  background-image: url("Afbeeldingen/kimfoto2.PNG");
 }
 
 #kimillu {
-  background-image: url("Afbeeldingen/kimillu1.png");
+  background-image: url("Afbeeldingen/kimillu1.PNG");
   background-size: cover;
 }
 
 #kimillu:hover {
-  background-image: url("Afbeeldingen/kimillu2.png");
+  background-image: url("Afbeeldingen/kimillu2.PNG");
 }
 
 #kimtypo {
-  background-image: url("Afbeeldingen/kimtypo1.png");
+  background-image: url("Afbeeldingen/kimtypo1.PNG");
   background-size: cover;
 }
 
 #kimtypo:hover {
-  background-image: url("Afbeeldingen/kimtypo2.png");
+  background-image: url("Afbeeldingen/kimtypo2.PNG");
 }
 
 #kimspec {
-  background-image: url("Afbeeldingen/kimspec1.png");
+  background-image: url("Afbeeldingen/kimspec1.PNG");
   background-size: cover;
 }
 
 #kimspec:hover {
-  background-image: url("Afbeeldingen/kimspec2.png");
+  background-image: url("Afbeeldingen/kimspec2.PNG");
 }
 
 #videowrapper {
