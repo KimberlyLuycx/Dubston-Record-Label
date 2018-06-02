@@ -547,48 +547,48 @@ button {
 }
 
 #juliefoto {
-  background-image: url("Afbeeldingen/juliefoto1.jpg");
+  background-image: url("Afbeeldingen/juliefoto1.JPG");
   background-size: cover;
 }
 
 #juliefoto:hover {
-  background-image: url("Afbeeldingen/juliefoto2.jpg");
+  background-image: url("Afbeeldingen/juliefoto2.JPG");
 }
 
 #julieillu {
-  background-image: url("Afbeeldingen/julieillu1.jpg");
+  background-image: url("Afbeeldingen/julieillu1.JPG");
   background-size: cover;
 }
 
 #julieillu:hover {
-  background-image: url("Afbeeldingen/julieillu2.jpg");
+  background-image: url("Afbeeldingen/julieillu2.JPG");
 }
 
 #julietypo {
-  background-image: url("Afbeeldingen/julietypo1.jpg");
+  background-image: url("Afbeeldingen/julietypo1.JPG");
   background-size: cover;
 }
 
 #julietypo:hover {
-  background-image: url("Afbeeldingen/julietypo2.jpg");
+  background-image: url("Afbeeldingen/julietypo2.JPG");
 }
 
 #juliespec {
-  background-image: url("Afbeeldingen/juliespec1.jpg");
+  background-image: url("Afbeeldingen/juliespec1.JPG");
   background-size: cover;
 }
 
 #juliespec:hover {
-  background-image: url("Afbeeldingen/juliespec2.jpg");
+  background-image: url("Afbeeldingen/juliespec2.JPG");
 }
 
 #cyanafoto {
-  background-image: url("Afbeeldingen/cyanafoto1.png");
+  background-image: url("Afbeeldingen/cyanafoto1.PNG");
   background-size: cover;
 }
 
 #cyanafoto:hover {
-  background-image: url("Afbeeldingen/cyanafoto2.png");
+  background-image: url("Afbeeldingen/cyanafoto2.PNG");
 }
 
 #cyanaillu {
@@ -945,7 +945,7 @@ button {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("Afbeeldingen/Stefanie.png");
+  background-image: url("Afbeeldingen/Stefanie.PNG");
   background-size: contain;
   margin-top: 20px;
     background-position: left bottom;
@@ -958,7 +958,7 @@ button {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
-  background-image: url("Afbeeldingen/Cyana.png");
+  background-image: url("Afbeeldingen/Cyana.PNG");
   background-size: contain;
   background-position: left bottom;
 }
@@ -969,7 +969,7 @@ button {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("Afbeeldingen/Julie.png");
+  background-image: url("Afbeeldingen/Julie.PNG");
   margin-top: 20px;
   background-size: contain;
     background-position: left bottom;
@@ -983,7 +983,7 @@ button {
   margin-right: auto;
   margin-top: 20px;
   background-size: contain;
-  background-image: url("Afbeeldingen/Kimberly.png");
+  background-image: url("Afbeeldingen/Kimberly.PNG");
   background-repeat: no-repeat;
   background-position: left bottom;
 }
